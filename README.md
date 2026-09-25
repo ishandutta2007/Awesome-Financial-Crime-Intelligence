@@ -59,7 +59,7 @@ These solutions empower banks, payment processors, fintechs, and regulated finan
 The open-source ecosystem provides transparent, auditable algorithms for record linkage, watchlist matching, synthetic data generation, and transaction scoring.
 
 > [!TIP]
-> Each open-source repository below is sorted in **descending order by GitHub star count** and features a direct link to its stargazers page.
+> Each open-source repository below is sorted in **descending order by GitHub Stars_Count** and features a direct link to its stargazers page.
 
 1. **[dedupe](https://github.com/dedupeio/dedupe)** <a href="https://github.com/dedupeio/dedupe/stargazers"><img src="https://img.shields.io/github/stars/dedupeio/dedupe?style=social" alt="dedupe Stars"/></a>  
    *Python library for accurate and scalable fuzzy matching, record deduplication, and entity resolution in compliance & customer master datasets.*
@@ -124,7 +124,7 @@ We welcome contributions from compliance practitioners, data scientists, and sof
 1. **Fork** this repository on GitHub.
 2. Check out a new branch: `git checkout -b feature/add-new-tool`.
 3. Add your entry to either the **SaaS** table or **Open-Source** list following the established Markdown table/list format.
-4. Ensure all pricing, company valuation, and star count details are factual and verifiable.
+4. Ensure all pricing, company valuation, and Stars_Count details are factual and verifiable.
 5. Open a **Pull Request** with a detailed explanation of your proposed addition.
 
 Explore curated awesome collections on [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
